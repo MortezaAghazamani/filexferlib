@@ -1,0 +1,12 @@
+{
+  "name": "filexferlib",
+  "version": "1.0.0",
+  "description": "A modern C++17 file transfer and sync library over TCP",
+  "homepage": "https://github.com/MortezaAghazamani/filexferlib",
+  "license": "MIT",
+  "dependencies": [
+    "asio",
+    "xxhash",
+    "zstd"
+  ]
+}
